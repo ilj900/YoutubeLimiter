@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 200px;
+  text-align: center;
+}
+
+#timer {
+  font-size: 32px;
+  margin: 15px 0;
+  font-weight: bold;
+}
+
+.blue   { color: #2196f3; }
+.green  { color: #4caf50; }
+.yellow { color: #ff9800; }
+.red    { color: #f44336; }
